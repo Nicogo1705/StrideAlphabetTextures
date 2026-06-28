@@ -8,7 +8,7 @@ decals, or learning how a texture-only Stride asset package is laid out.
 
 ```
 AssetData/
-  AlphabetTextures.csproj   # Stride 4.2 package project (used for version detection)
+  AlphabetTextures.csproj   # Stride 4.4 package project (used for version detection)
   AlphabetTextures.sdpkg    # Stride package: Assets/ + Resources/
   Assets/                   # A.sdtex ... Z.sdtex  (one Texture asset per letter)
   Resources/                # A.png   ... Z.png    (the source images, 512x512)
