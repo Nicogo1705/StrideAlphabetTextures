@@ -1,31 +1,18 @@
 # Alphabet Textures
 
-A small Stride asset package providing **26 letter textures (A–Z)**, one
-`Texture` asset per glyph. Handy for prototype UI, debug labels, signage,
-decals, or learning how a texture-only Stride asset package is laid out.
+**26 ready-to-use letter textures (A–Z)** for [Stride](https://stride3d.net) — one `Texture` asset
+per glyph (512×512). Handy for prototype UI, debug labels, signage, or decals.
 
-## Contents
+## Install
 
-```
-AssetData/
-  AlphabetTextures.csproj   # Stride 4.4 package project (used for version detection)
-  AlphabetTextures.sdpkg    # Stride package: Assets/ + Resources/
-  Assets/                   # A.sdtex ... Z.sdtex  (one Texture asset per letter)
-  Resources/                # A.png   ... Z.png    (the source images, 512x512)
-  thumbnail.png             # store thumbnail
-```
-
-Each `Assets/<Letter>.sdtex` is a standard Stride `Texture` asset whose
-`Source` points at `../Resources/<Letter>.png`.
+From the **Stride Asset Store** (clones the repo and wires a `<ProjectReference>`), or copy the
+`Assets/` and `Resources/` folders into your own Stride project.
 
 ## Usage
 
-1. Install via the Stride Asset Store (clones the repo and wires a
-   `ProjectReference` into your game), or simply copy `AssetData/Assets` and
-   `AssetData/Resources` into your own Stride project.
-2. Open the project in Game Studio — the 26 textures appear under the
-   `Assets` folder, ready to drop onto sprites, UI images, or materials.
+Open the project in Game Studio — the 26 textures appear under the `Assets` folder, ready to drop
+onto sprites, UI images, or materials. Each `Assets/<Letter>.sdtex` sources `Resources/<Letter>.png`.
 
 ## License
 
-MIT. See the store entry for details.
+MIT.
