@@ -2,13 +2,20 @@
   "schemaVersion": 1,
   "id": "com.example.alphabet-textures",
   "name": "Alphabet Textures",
-  "version": "1.0.0",
   "authors": [{ "name": "Nicogo", "url": "https://github.com/Nicogo1705" }],
   "description": "26 ready-to-use letter textures (A-Z), one Stride Texture asset per glyph.",
   "category": "Textures",
   "tags": ["textures", "alphabet", "letters", "ui"],
   "license": "MIT",
   "thumbnail": "thumbnail.png",
-  "screenshots": [],
+  "screenshots": [
+    "Resources/A.png", "Resources/B.png", "Resources/C.png", "Resources/D.png",
+    "Resources/E.png", "Resources/F.png", "Resources/G.png", "Resources/H.png",
+    "Resources/I.png", "Resources/J.png", "Resources/K.png", "Resources/L.png",
+    "Resources/M.png", "Resources/N.png", "Resources/O.png", "Resources/P.png",
+    "Resources/Q.png", "Resources/R.png", "Resources/S.png", "Resources/T.png",
+    "Resources/U.png", "Resources/V.png", "Resources/W.png", "Resources/X.png",
+    "Resources/Y.png", "Resources/Z.png"
+  ],
   "dependencies": []
 }
