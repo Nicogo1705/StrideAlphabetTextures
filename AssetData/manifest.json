@@ -9,13 +9,13 @@
   "license": "MIT",
   "thumbnail": "thumbnail.png",
   "media": [
-    "AssetData/Resources/A.png", "AssetData/Resources/B.png", "AssetData/Resources/C.png", "AssetData/Resources/D.png",
-    "AssetData/Resources/E.png", "AssetData/Resources/F.png", "AssetData/Resources/G.png", "AssetData/Resources/H.png",
-    "AssetData/Resources/I.png", "AssetData/Resources/J.png", "AssetData/Resources/K.png", "AssetData/Resources/L.png",
-    "AssetData/Resources/M.png", "AssetData/Resources/N.png", "AssetData/Resources/O.png", "AssetData/Resources/P.png",
-    "AssetData/Resources/Q.png", "AssetData/Resources/R.png", "AssetData/Resources/S.png", "AssetData/Resources/T.png",
-    "AssetData/Resources/U.png", "AssetData/Resources/V.png", "AssetData/Resources/W.png", "AssetData/Resources/X.png",
-    "AssetData/Resources/Y.png", "AssetData/Resources/Z.png"
+    "AssetData/StrideAlphabetTextures/Resources/A.png", "AssetData/StrideAlphabetTextures/Resources/B.png", "AssetData/StrideAlphabetTextures/Resources/C.png", "AssetData/StrideAlphabetTextures/Resources/D.png",
+    "AssetData/StrideAlphabetTextures/Resources/E.png", "AssetData/StrideAlphabetTextures/Resources/F.png", "AssetData/StrideAlphabetTextures/Resources/G.png", "AssetData/StrideAlphabetTextures/Resources/H.png",
+    "AssetData/StrideAlphabetTextures/Resources/I.png", "AssetData/StrideAlphabetTextures/Resources/J.png", "AssetData/StrideAlphabetTextures/Resources/K.png", "AssetData/StrideAlphabetTextures/Resources/L.png",
+    "AssetData/StrideAlphabetTextures/Resources/M.png", "AssetData/StrideAlphabetTextures/Resources/N.png", "AssetData/StrideAlphabetTextures/Resources/O.png", "AssetData/StrideAlphabetTextures/Resources/P.png",
+    "AssetData/StrideAlphabetTextures/Resources/Q.png", "AssetData/StrideAlphabetTextures/Resources/R.png", "AssetData/StrideAlphabetTextures/Resources/S.png", "AssetData/StrideAlphabetTextures/Resources/T.png",
+    "AssetData/StrideAlphabetTextures/Resources/U.png", "AssetData/StrideAlphabetTextures/Resources/V.png", "AssetData/StrideAlphabetTextures/Resources/W.png", "AssetData/StrideAlphabetTextures/Resources/X.png",
+    "AssetData/StrideAlphabetTextures/Resources/Y.png", "AssetData/StrideAlphabetTextures/Resources/Z.png"
   ],
   "dependencies": []
 }
